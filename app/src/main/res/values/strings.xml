@@ -1,0 +1,5 @@
+<resources>
+    <string name="message" translatable="false">I am glad you chose to use kotlin,
+        please enjoy. Enter your user name and password to continue</string>
+    <string name="app_name">Kotlin</string>
+</resources>
